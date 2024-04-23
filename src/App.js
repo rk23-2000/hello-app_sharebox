@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h1>This App is by RK</h1>
       <Home uname="RK"/>
-      <House/>
+      <House/> 
       <header></header>
     </div>
   );
